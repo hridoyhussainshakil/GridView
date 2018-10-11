@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">class12</string>
+    <string-array name="titles">
+        <item>ID</item>
+        <item>Interview</item>
+        <item>Chat</item>
+        <item>Networking</item>
+        <item>Puzzle</item>
+        <item>Team</item>
+        <item>Structure</item>
+        <item>Business</item>
+        <item>archive</item>
+        <item>Strategy</item>
+
+    </string-array>
+</resources>
